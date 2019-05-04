@@ -1,0 +1,19 @@
+#panelStyle
+{
+background-color: #eeeeee;
+border: 2px solid transparent;
+}
+
+#setSize
+{
+	padding:0px
+}
+
+.panel-heading
+{
+padding:10px 15px;
+background-color: silver;
+border-top: 1px solid #dddddd;
+border-bottom-right-radius: 3px;
+border-bottom-left-radius: 3px;
+}
